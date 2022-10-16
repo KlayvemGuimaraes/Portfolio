@@ -1,5 +1,5 @@
 # Portfólio Klayvem Guimarães
-![preview](../Portfolio/src/github/port.png)
+![preview](./Portfolio/src/github/port.png)
 
 > Projeto com interação JavaScript
 
